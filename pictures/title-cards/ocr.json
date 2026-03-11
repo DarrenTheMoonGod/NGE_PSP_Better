@@ -1,0 +1,4485 @@
+{
+    "": {
+        "note": "The OCR scanning results are from the Chinese NGE2 translation project: https://github.com/xeonliu/nge_2_re"
+    },
+    "a002_51.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "襲来"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "a002_52.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "10",
+            "時間後"
+        ],
+        "format": "valign-2",
+        "options": {
+            "height": [50, 64],
+            "skips": [6],
+            "lifts": [6, 0],
+            "aspect": [0.673, 0.435]
+        }
+    },
+    "a009_51.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "浅間山地震研究所からの報告により、"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 64,
+            "aspect": 0.4
+        }
+    },
+    "a009_52.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "火口内にて孵化前の",
+            "使徒",
+            "を発見。"
+        ],
+        "format": "valign-1-2",
+        "options": {
+            "height": [64, 80, 60],
+            "skips": [10, 10],
+            "lifts": [0, 0, 5],
+            "aspect": [0.575, 0.575, 0.6]
+        }
+    },
+    "a009_53.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "これに対し、ネルフは",
+            "A－17",
+            "を発動。"
+        ],
+        "format": "valign-1-2",
+        "options": {
+            "height": [64, 64, 60],
+            "skips": [10, 10],
+            "lifts": [0, 8, 4],
+            "aspect": [0.385, 0.516, 0.41]
+        }
+    },
+    "a009_54a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "成功すれば"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 64,
+            "aspect": 0.475
+        }
+    },
+    "a009_54b.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "使徒",
+            "の生きたサンプルを",
+            "捕獲",
+            "できるが、"
+        ],
+        "format": "valign-2-2",
+        "options": {
+            "height": [80, 64, 64, 60],
+            "skips": [2, 2, 4],
+            "lifts": [0, 4, 0, 0],
+            "aspect": [0.438, 0.470, 0.424, 0.470]
+        }
+    },
+    "a009_55a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "失敗すれば"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 64,
+            "aspect": 0.471
+        }
+    },
+    "a009_55b.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "サードインパクト",
+            "を引き起こす"
+        ],
+        "format": "valign-1-1",
+        "options": {
+            "height": [80, 64],
+            "skips": [6],
+            "lifts": [0, 0],
+            "aspect": [0.450, 0.455]
+        }
+    },
+    "a009_56.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "非常に危険な作戦である。"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 80,
+            "aspect": 0.450
+        }
+    },
+    "a015_01a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "ネルフ本部、作戦室"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 52,
+            "aspect": 0.670
+        }
+    },
+    "b004_51a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "エヴァ初号機",
+            "の暴走により、"
+        ],
+        "format": "valign-2",
+        "options": {
+            "height": [82, 56],
+            "skips": [4],
+            "lifts": [0, 4],
+            "aspect": [0.444, 0.449]
+        }
+    },
+    "b004_51b.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "ネルフは",
+            "使徒殲滅に成功する"
+        ],
+        "format": "valign-1-1",
+        "options": {
+            "height": [56, 80],
+            "skips": [10],
+            "lifts": [0, 0],
+            "aspect": [0.456, 0.456]
+        }
+    },
+    "b004_52a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "だが、"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 120,
+            "aspect": 0.436
+        }
+    },
+    "b004_52b.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "初号機パイロット、碇シンジは、\nエヴァに取り込まれ、",
+            "脱出不能",
+            "に陥る"
+        ],
+        "format": "valign-1-2",
+        "options": {
+            "height": [120, 80, 56],
+            "skips": [10, 5],
+            "lifts": [0, 0, 4],
+            "aspect": [0.431, 0.440, 0.457]
+        }
+    },
+    "b004_53a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "この状況を打開するため、\nパイロットの救出作戦",
+            "「サルベージ計画」",
+            "を実行"
+        ],
+        "format": "valign-1-2",
+        "options": {
+            "height": [120, 80, 56],
+            "skips": [10, 30],
+            "lifts": [0, 0, 4],
+            "shifts": [-5, 3],
+            "aspect": [0.43, 0.447, 0.447]
+        }
+    },
+    "b004_54a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "苦戦の末、\nかろうじてパイロットの\n救出には成功するが、"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 188,
+            "aspect":  0.411
+        }
+    },
+    "b004_55a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "計画の成功によるものかどうかは、\n定かではない"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 120,
+            "aspect": 0.420
+        }
+    },
+    "c0117t1.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "そして"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 40,
+            "aspect": 0.725      
+        }
+    },
+    "c0117t2.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "全ての人に"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 40,
+            "aspect": 0.725      
+        }
+    },
+    "c0117t3.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "ありがとう"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 50,
+            "aspect": 0.725      
+        }
+    },
+    "c0210t1.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "何を願う？"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 40,
+            "aspect": 0.725      
+        }
+    },
+    "c0210t2.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "何を願う？"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 64,
+            "aspect": 0.65      
+        }
+    },
+    "c0210t3.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "そこは、自由"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 42,
+            "aspect": 0.679
+        }
+    },
+    "c0601t1.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "1999",
+            "年  京都"
+        ],
+        "format": "valign-2",
+        "options": {
+            "height": [42, 52],
+            "skips": [10],
+            "lifts": [5, 0],
+            "aspect": [1.030, 0.709]
+        }
+    },
+    "c1013t1.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "翌日"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 52,
+            "aspect": 0.670
+        }
+    },
+    "e001_51a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "ターミナルドグマの",
+            "白い巨人",
+            "の前に"
+        ],
+        "format": "valign-1-2",
+        "options": {
+            "height": [62, 80, 64],
+            "skips": [10, 4],
+            "lifts": [0, 0, 0],
+            "aspect": [0.468, 0.446, 0.428]
+        }
+    },
+    "e001_52a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "ついに",
+            "使徒",
+            "がたどり着いた"
+        ],
+        "format": "valign-3",
+        "options": {
+            "height": [55, 90, 64],
+            "skips": [5, 3],
+            "lifts": [8, 0, 4],
+            "aspect": [0.436, 0.445, 0.447]
+        }
+    },
+    "e001_53a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "そして…",
+            "・・",
+            "それが、始まった…"
+        ],
+        "format": "valign-1-1-1",
+        "options": {
+            "height": [60, 14, 64],
+            "skips": [12, 6],
+            "lifts": [0, 0, 0],
+            "shifts": [0, 10, 0],
+            "aspect": [0.450, 0.478, 0.438]
+        }
+    },
+    "e001_54a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "かえりましょう…"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 80,
+            "aspect": 0.466
+        }
+    },
+    "e001_55a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "おやすみなさい…"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 80,
+            "aspect": 0.455
+        }
+    },
+    "e001_56a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "それは、終わりの時"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 45,
+            "aspect": 0.631
+        }
+    },
+    "e001_56b.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "あるいは、始まりの時"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 45,
+            "aspect": 0.632
+        }
+    },
+    "e001_56c.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "すべてが",
+            "一つになる時が・・・"
+        ],
+        "format": "valign-1-1",
+        "options": {
+            "height": [45, 45],
+            "aspect": [0.658, 0.628],
+            "skips": [0, 0],
+            "lifts": [0, 0, 0],
+            "shifts": [0, 0, 0]
+        }
+    },
+    "e002_51a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "おかえりなさい…"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 80,
+            "aspect": 0.460
+        }
+    },
+    "e003_51a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "父",
+            "は選択した"
+        ],
+        "format": "valign-2",
+        "options": {
+            "height": [80, 60],
+            "aspect": [0.465, 0.465],
+            "skips": [4],
+            "lifts": [0, 6],
+            "shifts": [0, 0]
+        }
+    },
+    "e003_52a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "息子",
+            "と共に 生きていく事を"
+        ],
+        "format": "valign-2",
+        "options": {
+            "height": [80, 64],
+            "aspect": [0.466, 0.450],
+            "skips": [4],
+            "lifts": [0, 3],
+            "shifts": [0, 0]
+        }
+    },
+    "e003_53a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "息子",
+            "は選択した"
+        ],
+        "format": "valign-2",
+        "options": {
+            "height": [80, 64],
+            "aspect": [0.455, 0.430],
+            "skips": [4],
+            "lifts": [0, 3],
+            "shifts": [0, 0]
+        }
+    },
+    "e003_54a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "父",
+            "と共に生きていく事を"
+        ],
+        "format": "valign-2",
+        "options": {
+            "height": [80, 64],
+            "aspect": [0.455, 0.440],
+            "skips": [6],
+            "lifts": [0, 3],
+            "shifts": [0, 0]
+        }
+    },
+    "e004_02a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "ありがとう"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 94,
+            "aspect": 0.790
+        }
+    },
+    "e004_51a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "そして、"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 40,
+            "aspect": 0.709
+        }
+    },
+    "e004_51b.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "人類の補完が始まった"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 42,
+            "aspect": 0.676
+        }
+    },
+    "!e004_51c.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "人々が抱える後悔と希望が、\n交錯する中へと"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "e004_51d.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "心の空白を埋めるべく、"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "e004_51e.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "心の補完は始まっていく・・・"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "f006_03a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "ネルフ本部、分析室"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "f007_10a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "ネルフ本部、作戦室"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "f007_12a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "松代 第2実験場"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "f007_13a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "地下仮設ケイジ"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "f012_04a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "使徒回收現場"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "f013_14a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第28放置區域\n(旧東京都心)"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "f013_15a.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "人の造りもの"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "f013_15a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "人の造りもの"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "f014_03a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "総司令公務室"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "f023_03a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "夕刻"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "f040_03a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "共同墓地"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "f086_51a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "誰の？"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "f086_51b.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "だが、現実は？"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "f086_51c.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "何故？"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "f086_51d.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "本当に？"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "f086_51e.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "望んだものは？"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "f089_51a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "われら人の声に目覚めるまで"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "im003551.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "「何を願う？」"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "im003552.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "「本当にそうなのか？」"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "im003553.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "「今までは、\n充たされていたのか？」"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "im003554.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "「現実を認めたくない、\n受け入れたくない。」"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "im003555.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "「逃げることしかできない。」"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "im003556.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "「誰も、他人の心はわからない。」"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "im003557.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "「しかし、\nやがてそれは裏切られる。」"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "im003558.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "「しかし、期待はできない。」"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "im003559.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "「しかし、現実は\n何も変わらない。」"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "im003560.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "「そうやって、自分に嘘をついて、\nこれからも生きていく。」"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "im003561.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "「だが、いつも自由は与えられている。」"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "im003562.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "おめでとう"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "im003563.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "ありがとう"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n000_51a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "戦闘結果報告"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n000_52a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第3新東京市に襲来"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n000_53a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "同市街地にて交戦"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n000_54a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "国連軍、これにN₂地雷を使用"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n000_55a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "使徒の自己修復機能、\n及び機能増幅能力を確認"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n000_56a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "同時刻、\nエヴァンゲリオン起動"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n000_57a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "パイロットの活躍により"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n000_58a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "使徒殲滅に成功"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n000_59a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "使徒の強攻により\nパイロット達は\n苦戦を強いられるが"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n000_60a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "かろうじて\n使徒殲滅に成功"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n000_61a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "しかし、\nパイロットを失う致命的な\n損害を受ける"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n001_51a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "使徒が市街地に攻撃"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n001_52a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "委員会から、\nエヴァ出撃要請を受け"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n001_53a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "エヴァンゲリオン起動"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n001_54a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "エヴァンゲリオン、\n同市街地にて使徒と交戦"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n002_51a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "太平洋上にて国連艦隊より確認\nその後、襲撃を受ける"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n002_52a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "国連艦隊の戦闘記録分析結果"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n002_53a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "目標は強力な荷粒子砲と\nA.T.フィールドを使用"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n002_54a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "これにより\nポジトロンスナイパーライフルを\n使用した作戦を決行"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n002_55a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "目標を第3新東京市にて迎撃"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n002_56a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "使徒の強攻により\nパイロットは\n苦戦を強いられるが"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n003_51a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "太平洋上伊勢湾沖に目標を確認"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n003_52a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "同時荷重攻撃の作戦を立案"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n003_53a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "目標は第3新東京市に再侵攻"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n003_54a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "作戦開始後、一体に融合"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n003_55a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "パイロット達の\n同時荷重攻撃により"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n004_51a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "目標は、強力な溶解液を武器に\n市街地を侵攻"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n005_51a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "防衛線にて\n迎撃システムにより交戦"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n005_52a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "驚異的な攻撃力を持つ使徒に対し必死の応戦を行う"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n006_51a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "目標のA.T.フィールド\n反応有パターン、\n青からオレンジへ周期的に変化"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n006_52a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "MAGI 回答不能を提示"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n006_53a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "膠着狀態"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n006_54a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "目標形態変化能力保持"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n006_55a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "敵データ不明のまま交戦、\n近接戦を回避"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n006_56a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "長期戦を強いられ、苦戦するが"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n006_57a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "使徒、殲滅"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n006_57b.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "作戰完遂"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n006_58a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "目標、\nエヴァの機体に融合を図る"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n006_59a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "エヴァ及び、パイロット、\n目標と生体融合"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n006_59b.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "両者の分離不能"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n006_60a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "使徒殲滅のため機体を放棄、\n自爆を決断"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n006_62a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "パイロット死亡確認"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n007_51a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "セントラルドグマに\n突如出現した使徒の正体は、"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n007_52a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "目標はエヴァ式号機を操り、\nターミナルグマを\n目指して侵攻"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n007_53a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "初号機パイロット碇シンジが\n目標を追撃"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n007_54a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "接触に成功"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n007_55a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "結果、"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n007_55b.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "目標の説得に成功"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n007_56b.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "以後、渚カヲルは従来通り"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n007_58a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "目標の説得に失敗し、"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n007_59a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "フィフス・チルドレン\n渚カヲルであることが判明"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n007_60a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "しかし、弐号機の攻撃により、\n初号機は戦闘不能"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n007_61a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "目標のターミナルドグマ\n侵入阻止に失敗する"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n007_62a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "初号機が目標を殲滅"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n008_51a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "目標はエヴァ式号機を輸送中、\n太平洋国連艦隊を襲撃"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n008_52a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "これに対し、\nセカンド・チルドレン\n惣流・アスカ・ラングレーは、"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n008_53a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "エヴァ式号機を起動し、応戦"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n008_54a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "しかし、\nB型装備による水中戦という、\n最悪の戦況を強いられる"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n008_55a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "残存戦艦二隻による\n零距離射撃作戦を決行"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n008_56a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "国連軍の協力を得て\nかろうじて使徒を撃破"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n008_57a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "この危機的状況を打破するため\n残存戦艦二隻による\n零距離射撃作戦を決行"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n008_58a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "だが、作戦は失敗に終る"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n008_59a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "エヴァ式号機は戦闘不能\n使徒殲滅に失敗"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n008_60a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "その後、\n目標は第3新東京市に上陸、\nゼロエリアへ侵攻"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n008_61a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "=作戦要綱=\n式号機が目標の口を開口\n全艦突入、\n艦首主砲塔の直接砲撃の後\nさらに自爆"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n009_51a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "A-17、\n使徒捕獲作戦の結果報告"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n009_52a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "浅間山火口内にて発見された\n使徒を捕獲するため"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n009_53a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "エヴァ式号機D型装備で\n火口内に沈降、\n目標への接触を図る"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n009_54a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "深度1780mにて、\n目標を発見"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n009_55a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "捕獲を試みが、\n目標は孵化を開始"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n009_56a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "作戦を使徒殲滅に変更"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n009_57a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "高温高圧という\n不利な状況下での戦闘に\n苦戦を強いられるが、"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n009_58a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "冷却液による熱膨張を利用した攻撃を敢行"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n009_60a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "A-17、\n使徒捕獲作戦"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n009_61a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "高温高圧という\n不利な状況下での戦闘に\n苦戦を強いられ、"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n009_62a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "弐号機、大破\nそのまま機体は消失する"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n009_63a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "目標は、浅間山から\n第3新東京市へ侵攻"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n010_51a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "インド洋上空衛星軌道上に\n目標を発見"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n010_52a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "N²航空爆雷を使用するが、\n通用せず"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n010_53a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "目標は誤差修正しながら、\n組織の一部を落下させ攻撃"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n010_54a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "ネルフ権限における特別宣言\nD－17を発令\n全市民の避難を行う"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n010_55a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "目標は第3新東京市を目掛けて、\n降下"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n010_56a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "成層圏より飛来する目標に対し"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n010_57a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "エヴァによる直接要撃を試みる"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n010_58a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "エヴァは見事使徒を受け止め"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n010_59a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "エヴァは見事使徒を受け止め\n使徒殲滅に成功するが"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n010_60a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "パイロットを失うという\n致命的な損害を受ける"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n011_51a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "目標は第3新東京市直上に\n突如出現"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n011_52a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "エヴァ初号機による\n牽制攻撃を行う"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n011_53a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "目標の本体"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n011_53b.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "虚数空間\nディラックの海"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n011_54a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "初号機、消失"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n011_55a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "エヴァ初号機救出のため、\n強制サルベージ作戦を実行"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n011_56a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "だが、サルベージ作戦開始直前、"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n011_57a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "エヴァ初号機は\n自ら目標を引き裂き、"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n011_57b.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "脱出"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n011_58a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "何故、"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n011_58b.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "エヴァ初号機が脱出出来たのか？"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n011_59a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "詳細不明 現在調査中"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n011_60a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "エヴァ初号機救出のため、\n強制サルベージ作戦を立案"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n011_61a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "実行"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n011_62a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "初号機のサルベージ成功"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n011_63a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "だが、"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n011_63b.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "不完全な虚数空間への\n干渉により"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n011_64a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "他のパイロットを失う\n致命的な損害を受ける"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n011_66a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "目標の本体となる\n虚数空間ディラックの海に\n飲み込まれ"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n011_67a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "作戦を実行"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n011_68a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "だが、\n虚数空間への干渉に失敗し、"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n011_69a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "エヴァ全機、消失する"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n012_51a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "目標は衛星軌道上に突如出現"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n012_52a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "超長距離射撃による対空迎撃"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n012_53a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "出力不足のため、\nA．T．フィールドを\n突破出来ず"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n012_54a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "目標は心理攻撃を展開"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n012_55a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "パイロットは、\n目標の心理攻撃に苦戦"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n012_56a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "この状況を打開するため、"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n012_57a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "ロンギヌスの槍、\n使用決断"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n012_58a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "ロンギヌスの槍により、\n使徒殲滅に成功"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n012_59a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "槍は第一宇宙速度を突破、\n月軌道に移行"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n012_60a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "槍は回収不能となる"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n012_61a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "また、目標の心理攻撃により"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n012_61b.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "作戦終了後、\nパイロット死亡"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n013_51a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "J.A.暴走事件報告"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n013_52a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "制御棒、作動不能\n炉心融解の危険 自動停止、\n確率0・00002%"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n013_53a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "J.A.を停止させるべく、\nJ.A.内部に直接進入"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n013_54a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "全プログラムを\n消去する作戦を実行"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n013_55a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "しかし、\nプログラムは変更されており、"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n013_56a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "プログラム\n消去パスワード拒否"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n013_57a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "作戦を変更\n強制的に制御棒を動かす"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n013_58a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "それとは無関係に\nJ.A.は活動を停止"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n013_59a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "今回の事件は、\n何者かの手により\n仕組まれた可能性が高い"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n014_51a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "目標は、エヴァ参号機に潜み、\n起動実験中に確認"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n014_52a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "参号機、廃棄\n使徒と識別し戦闘開始"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n014_53a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "目標は、参号機を操り、圧倒的な強さを見せるが"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n014_54a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "苦戦の末、使徒殲滅に成功"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n014_55a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "参号機パイロット\n鈴原トウジ 死亡"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n015_51a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "エヴァシリーズ9機に\n果敢に挑むエヴァ"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n015_52a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "S²機関を搭載し、\n圧倒的な戦闘力を持つ\n目標を前に"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n015_53a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "果ての無いような\n苦戦を強いられる"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n015_54a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "しかし、"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n015_55a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "全てのエヴァシリーズ、\n殲滅に成功"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n015_56a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "そして…"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n015_57a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "ついに、我々のエヴァは\nエヴァシリーズによって\n沈黙する"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "n015_58a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "パイロットの生死も不明"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "rslt_f00.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "エヴァ号機、\n零初式参四"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "rslt_f01.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "損害無し\n小破中破\n大破\nロスト"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "rslt_f02.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "同パイロット\n綾波レイ、碇シンジ、\n惣流・アスカ・ラングレー、\n渚カヲル、鈴原トウジ、"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "rslt_f03.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "負傷無し\n軽傷重傷\n意識不明の重体\n死亡"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "rslt_f04.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "上記名入院\n123"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "rslt_f05.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第3新東京市の被害\n第3新東京市は、\n軽微甚大"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "rslt_f06.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "本戦闘の被害報告"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "rslt_f07.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "中規模の\n被害を被る\n壊滅的な\n被害を被る"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "s001_51.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "時に、西暦2015年"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "s001_52.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第3新東京市直上"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "s001_56.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "使徒に対する\n通常兵器の効果は認められず"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "s001_57.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "国連軍は作戦の遂行を断念"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "s001_58.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "全指揮権を\n特務機関『ネルフ』へ委譲"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "s001_59.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "ネルフ本部、第七ケイジ"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "s001_60.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "ファースト・チルドレン\n最初の適格者"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "s001_61.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "綾波レイ"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "s001_62.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "サード・チルドレン\n3人目の適格者"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "s001_63.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "碇シンジ"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "s001_64.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "逃げちゃ駄目だ"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "s002_51.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "太平洋・国連軍艦隊"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "s002_52.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "セカンド・チルドレン\n2人目の適格者"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "s002_53.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "惣流・アスカ・ラングレー"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "s004_02a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "ネルフ本部、第1発令所"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "s007_52a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "セントラルドグマに\n突如出現した使徒の正体は、"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "s007_53a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "目標は、ターミナルドグマを\n目指して侵攻"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "s007_54a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "初号機パイロット碇シンジ\n参号機パイロット鈴原トウジが\n目標を追撃"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "s007_55a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "接触に成功"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "s007_56a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "結果、"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "s007_56b.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "目標の説得に成功"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "s007_58a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "フィフス・チルドレンとして\nエヴァパイロットを続行"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "s009_01a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "加持 リョウジ"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "s009_02a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "特務機関ネルフ"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "s009_03a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "特殊監査部所属"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t01.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "使徒、襲来"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t02.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "アスカ\n来日"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t02a.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "アスカ、\n第六話\n来日"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t02b.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "アスカ\n来日"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t03.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "レイ\n心のざわめきに"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t04.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "最後のシ者"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t04.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "最後のシ者\n第拾八話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t05.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "女の戦い"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t06.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "アナザーワールド"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t07.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "エンジェルバスター"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t08.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "トウジふたな"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t09.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "Vs. チャン"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t10.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "シバムラティックバランス"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t10.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "シバムラティックバランス\n第壹話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t11.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "見込みのない種子"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t12.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "羊は見上げる"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t13.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "高い城の\nオトコ"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t14.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "人々\n所有せざる"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t15.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "コウスルト\n感ジマスカ？"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t16.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "あふれよ\nわが涙、\nと警官は言った"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t17.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "いつか、決して"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t18.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "墮ちてゆく僕たち"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t19.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "そして私は\n失われた道を辿り、\nこの場所を見出した"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t20.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "訪問者"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t21.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "出口はどこかへの入口"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t22.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "ささやかな遺産"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t23.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "内側の世界"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t24.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "ある晴れた日に"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t25.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "すべての時間が\n噴きでた\n夜"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t26.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "世界の縁にたつ都市を\nさまようモノ"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t27.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "心にかけられた者"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t28.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "そして\n目覚めると、\nこの肌寒い\n丘にいた\nわたしは"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t29.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "ドアたちがあいさつする男"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t30.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "2番目の真実"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t31.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "ささやかな叡智"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t32.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "残酷な\n方程式"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t33.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "つきの番"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t34.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "光あれ"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t35.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "時のめごと"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t36.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "すべての夏の\n一日に"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t37.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "夜明けと闇のあいだ"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t38.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "かくて光あり"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t39.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "無辺への\n切符"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t40.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "かくて神々は\n笑いき"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t41.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "侵入\n聖なる"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t42.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "眠れ、安らかに"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t43.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "名前のない\n土地"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t44.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "ガラスの小鬼が\n砕けるように"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t45.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第二の\n夜明け"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t46.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "小さな\n小さなジャッカル"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t47.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "脱出を待つ者"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t48.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "俺には\n口がない、\nそれでも俺は叫ぶ"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t49.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "旅に出る時は\nほほえみを"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_t50.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "血は異ならず"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_x01.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第壱話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_x02.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第弐話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_x03.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第参話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_x04.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第四話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_x05.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第伍話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_x06.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第六話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_x07.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第七話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_x08.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第八話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_x09.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第九話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_x10.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第拾話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_x11.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第拾壱話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_x12.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第拾弐話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_x13.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第拾参話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_x14.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第拾四話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_x15.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第拾伍話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_x16.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第拾六話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_x17.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第拾七話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_x18.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第拾八話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_x19.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第拾九話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_x20.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第弐拾話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_y01.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第壹話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_y02.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第弐話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_y03.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第参話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_y04.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第四話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_y05.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第伍話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_y06.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第六話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_y07.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第七話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_y08.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第八話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_y09.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第九話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_y10.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第拾話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_y11.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第拾老話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_y12.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第拾弐話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_y13.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第拾参話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_y14.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第拾四話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_y15.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第拾伍話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_y16.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第拾六話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_y17.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第拾七話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_y18.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第拾八話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_y19.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第拾九話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "st_y20.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第弐拾話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "t0102t1.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "人類補完委員会"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "t0102t2.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "数時間後・・・"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "t0213t1.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "翌朝"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "t0505t1.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "一方その頃"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "t0505t2.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第28放置區域\n(旧東京都心)"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "t0505t3.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "日本重化学工業共同体\nJ.A.完成披露記念会場"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "t1003t1.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "南極"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "t1206t1.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "ネルフ本部\n地下２００８メートル\nターミナルドグマ"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "t1405t1.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "計画は、一時失敗に見えたが"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "t1405t2.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "結果的に碇シンジは\n生還を果たす"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "t1901t1.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "気持ち悪い"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "t1905t1.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "ありがとう、\n母さん…"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "t1905t2.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "ありがとう、\n父さん…"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "tangel03.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "中江业"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "tangel04.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "白日依山尽"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "tangel05.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "ラジィ"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "tangel06.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "井田"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "tangel07.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "竹筒"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "tangel08.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "サダルフオン"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "tangel09.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "印度"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "tangel10.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "中日和"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "tangel11.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "何以"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "tangel12.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "月"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "tangel13.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "原地"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "tangel14.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "馆"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "tangel15.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "予知"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "tangel16.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "預中班"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "tangel17.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "夕方"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlec01.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "でも、\n第壱話\nこの世界が好き"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlec02.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "レイ、\n心のむこうに\n第壱話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlec03.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "脆いところへ\nくちづけを\n第壱話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlec04.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "女の戦い\n第壱話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlec05.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "人類補完計画\n第壱話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlec06.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "見果てぬ\n第壱話\n白昼夢"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlec07.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "女は炎\n第壹話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlec08.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "若草の頃\n第壱話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlec09.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第壱話\n曖昧な空"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlec10.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "コバルトスカイ第壱話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlec11.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "V.S.\nゼレ\n第壱話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlec12.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第壱話\n心の\nありったけを"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlec13.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第壱話\n夢から覚めれば"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlec14.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "春を見たヒト\n第壱話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlec15.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第壱話\n折れた翼"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlec16.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "ニンゲンの手が\n第壱話\nまだ触れない"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlee00.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "完\n使徒、襲来"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlee01.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "でも、\n完\nの世界が好き"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlee02.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "レイ\n心のむこうに\n完"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlee03.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "脆いところへ\nくちづけを\n完"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlee04.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "女の戦い\n完"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlee05.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "人類補完計画\n完"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlee06.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "見果てぬ 完\n白昼夢"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlee07.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "女は炎\n完"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlee08.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "若草の頃\n完"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlee09.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "曖昧な\n空\n完"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlee10.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "コバルト\nスカイ\n完"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlee11.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "VS.\nゼロ\n完"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlee12.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "完\n心\nの\nありったけを"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlee13.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "夢から覚めれば\n完"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlee14.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "春を見たヒト\n完"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlee15.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "完\n折れた翼"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlee16.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "ニンゲンの手が\n完触れない"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlee17.hpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "シバムラティックバランス\n完"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlet01.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第壱話\n使徒、襲来"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlet02.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "天井\n見知らぬ\n第弐話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlet03.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第参話\n電話\n鳴らない、"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlet04.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第四話\nレイ、\n心のむこうに"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlet05.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "人の造りもの\n第伍話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlet06.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "アスカ、\n第六話\n来日"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlet07.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第七話\n瞬間、心、重ねて"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlet08.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "マグマダイバー\n第八話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlet09.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第九話\n静止した\n闇の中で"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlet10.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第拾話\n奇跡の価値は"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlet11.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "使徒、侵入\n第拾壱話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlet12.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "死に至る病、そして\n第拾弐話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlet13.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第四人目の適格者\n第拾参話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlet14.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "男の戦い\n第拾四話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlet15.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "嘘と沈黙\n第拾伍話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlet16.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第拾六話\nせめて、\n人間らしく"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlet17.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "涙\n第拾七話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlet18.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "最後のシ者\n第拾八話"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "titlet19.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第拾九話\nまごころを、\n君に"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "tnum03.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第参使徒"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "tnum04.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第四使徒"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "tnum05.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第五使徒"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "tnum06.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第六使徒"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "tnum07.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第七使徒"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "tnum08.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第八使徒"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "tnum09.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第九使徒"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "tnum10.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第十使徒"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "tnum11.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第拾壹使徒"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "tnum12.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第拾弐使徒"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "tnum13.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第拾参使徒"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "tnum14.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第拾四使徒"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "tnum15.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第拾伍使徒"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "tnum16.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第拾六使徒"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    },
+    "tnum17.zpt.DECOMPRESSED.PICTURE.png": {
+        "phrases": [
+            "第拾七使徒"
+        ],
+        "format": "valign",
+        "options": {
+            "height": 195,
+            "aspect": 0.5
+        }
+    }
+}
