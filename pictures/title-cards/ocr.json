@@ -492,14 +492,18 @@
             "aspect": 0.676
         }
     },
-    "!e004_51c.zpt.DECOMPRESSED.PICTURE.png": {
+    "e004_51c.zpt.DECOMPRESSED.PICTURE.png": {
         "phrases": [
-            "人々が抱える後悔と希望が、\n交錯する中へと"
+            "人々が抱える後悔と希望が、",
+            "交錯する中へと"
         ],
-        "format": "valign",
+        "format": "valign-1-1",
         "options": {
-            "height": 195,
-            "aspect": 0.5
+            "height": [42, 42],
+            "aspect": [0.690, 0.690],
+            "skips": [4],
+            "lifts": [0, 0],
+            "shifts": [0, 0]
         }
     },
     "e004_51d.zpt.DECOMPRESSED.PICTURE.png": {
@@ -508,18 +512,22 @@
         ],
         "format": "valign",
         "options": {
-            "height": 195,
-            "aspect": 0.5
+            "height": 42,
+            "aspect": 0.675
         }
     },
     "e004_51e.zpt.DECOMPRESSED.PICTURE.png": {
         "phrases": [
-            "心の補完は始まっていく・・・"
+            "心の補完は始まっていく",
+            "・・・"
         ],
-        "format": "valign",
+        "format": "valign-2",
         "options": {
-            "height": 195,
-            "aspect": 0.5
+            "height": [42, 10],
+            "aspect": [0.683, 0.533],
+            "skips": [16],
+            "lifts": [0, 16],
+            "shifts": [0, 0]
         }
     },
     "f006_03a.zpt.DECOMPRESSED.PICTURE.png": {
@@ -528,8 +536,8 @@
         ],
         "format": "valign",
         "options": {
-            "height": 195,
-            "aspect": 0.5
+            "height": 52,
+            "aspect": 0.670
         }
     },
     "f007_10a.zpt.DECOMPRESSED.PICTURE.png": {
@@ -538,18 +546,22 @@
         ],
         "format": "valign",
         "options": {
-            "height": 195,
-            "aspect": 0.5
+            "height": 52,
+            "aspect": 0.670
         }
     },
     "f007_12a.zpt.DECOMPRESSED.PICTURE.png": {
         "phrases": [
-            "松代 第2実験場"
+            "松代",
+            "第2実験場"
         ],
-        "format": "valign",
+        "format": "valign-2",
         "options": {
-            "height": 195,
-            "aspect": 0.5
+            "height": [52, 52],
+            "aspect": [0.683, 0.712],
+            "skips": [28],
+            "lifts": [0, 0],
+            "shifts": [0, 0]
         }
     },
     "f007_13a.zpt.DECOMPRESSED.PICTURE.png": {
@@ -558,48 +570,51 @@
         ],
         "format": "valign",
         "options": {
-            "height": 195,
-            "aspect": 0.5
+            "height": 52,
+            "aspect": 0.671
         }
     },
     "f012_04a.zpt.DECOMPRESSED.PICTURE.png": {
         "phrases": [
-            "使徒回收現場"
+            "使徒回収現場"
         ],
         "format": "valign",
         "options": {
-            "height": 195,
-            "aspect": 0.5
+            "height": 52,
+            "aspect": 0.666
         }
     },
     "f013_14a.zpt.DECOMPRESSED.PICTURE.png": {
         "phrases": [
-            "第28放置區域\n(旧東京都心)"
+            "第",
+            "28",
+            "放置區域",
+            "(旧東京都心)"
         ],
-        "format": "valign",
+        "format": "valign-3-1",
         "options": {
-            "height": 195,
-            "aspect": 0.5
-        }
-    },
-    "f013_15a.hpt.DECOMPRESSED.PICTURE.png": {
-        "phrases": [
-            "人の造りもの"
-        ],
-        "format": "valign",
-        "options": {
-            "height": 195,
-            "aspect": 0.5
+            "height": [52, 42, 52, 52],
+            "aspect": [0.712, 0.810, 0.655, 0.712],
+            "skips": [10, 10, 7],
+            "lifts": [-3, 3, 0, -1],
+            "shifts": [6, 20]
         }
     },
     "f013_15a.zpt.DECOMPRESSED.PICTURE.png": {
         "phrases": [
-            "人の造りもの"
+            "人",
+            "の",
+            "造",
+            "りし",
+            "もの"
         ],
-        "format": "valign",
+        "format": "valign-2-3",
         "options": {
-            "height": 195,
-            "aspect": 0.5
+            "height": [95, 40, 95, 50, 70],
+            "aspect": [0.970, 0.902, 0.992, 0.907, 1.003],
+            "skips": [6, 54, 6, 8],
+            "lifts": [0, 12, 0, 0, 4],
+            "shifts": [-34, -36]
         }
     },
     "f014_03a.zpt.DECOMPRESSED.PICTURE.png": {
@@ -608,8 +623,8 @@
         ],
         "format": "valign",
         "options": {
-            "height": 195,
-            "aspect": 0.5
+            "height": 52,
+            "aspect": 0.663
         }
     },
     "f023_03a.zpt.DECOMPRESSED.PICTURE.png": {
@@ -618,8 +633,8 @@
         ],
         "format": "valign",
         "options": {
-            "height": 195,
-            "aspect": 0.5
+            "height": 52,
+            "aspect": 0.652
         }
     },
     "f040_03a.zpt.DECOMPRESSED.PICTURE.png": {
@@ -628,8 +643,8 @@
         ],
         "format": "valign",
         "options": {
-            "height": 195,
-            "aspect": 0.5
+            "height": 52,
+            "aspect": 0.665
         }
     },
     "f086_51a.zpt.DECOMPRESSED.PICTURE.png": {
@@ -638,8 +653,8 @@
         ],
         "format": "valign",
         "options": {
-            "height": 195,
-            "aspect": 0.5
+            "height": 52,
+            "aspect": 0.660
         }
     },
     "f086_51b.zpt.DECOMPRESSED.PICTURE.png": {
@@ -648,8 +663,8 @@
         ],
         "format": "valign",
         "options": {
-            "height": 195,
-            "aspect": 0.5
+            "height": 52,
+            "aspect": 0.665
         }
     },
     "f086_51c.zpt.DECOMPRESSED.PICTURE.png": {
@@ -658,8 +673,8 @@
         ],
         "format": "valign",
         "options": {
-            "height": 195,
-            "aspect": 0.5
+            "height": 52,
+            "aspect": 0.660
         }
     },
     "f086_51d.zpt.DECOMPRESSED.PICTURE.png": {
@@ -668,8 +683,8 @@
         ],
         "format": "valign",
         "options": {
-            "height": 195,
-            "aspect": 0.5
+            "height": 52,
+            "aspect": 0.662
         }
     },
     "f086_51e.zpt.DECOMPRESSED.PICTURE.png": {
@@ -678,8 +693,8 @@
         ],
         "format": "valign",
         "options": {
-            "height": 195,
-            "aspect": 0.5
+            "height": 52,
+            "aspect": 0.660
         }
     },
     "f089_51a.zpt.DECOMPRESSED.PICTURE.png": {
@@ -688,8 +703,8 @@
         ],
         "format": "valign",
         "options": {
-            "height": 195,
-            "aspect": 0.5
+            "height": 62,
+            "aspect": 0.456
         }
     },
     "im003551.zpt.DECOMPRESSED.PICTURE.png": {
@@ -698,8 +713,9 @@
         ],
         "format": "valign",
         "options": {
-            "height": 195,
-            "aspect": 0.5
+            "height": 56,
+            "aspect": 0.460,
+            "shifts": -3
         }
     },
     "im003552.zpt.DECOMPRESSED.PICTURE.png": {
@@ -708,21 +724,28 @@
         ],
         "format": "valign",
         "options": {
-            "height": 195,
-            "aspect": 0.5
+            "height": 56,
+            "aspect": 0.458,
+            "shifts": -3
         }
     },
     "im003553.zpt.DECOMPRESSED.PICTURE.png": {
         "phrases": [
-            "「今までは、\n充たされていたのか？」"
+            "「今までは、",
+            "充たされていた",
+            "のか？",
+            "」"
         ],
-        "format": "valign",
+        "format": "valign-1-3",
         "options": {
-            "height": 195,
-            "aspect": 0.5
+            "height": [55, 70, 54, 43],
+            "aspect": [0.453, 0.444, 0.445, 0.547],
+            "skips": [8, 4, 9],
+            "lifts": [0, 0, 0, 3],
+            "shifts": [4, 0]
         }
     },
-    "im003554.zpt.DECOMPRESSED.PICTURE.png": {
+    "!im003554.zpt.DECOMPRESSED.PICTURE.png": {
         "phrases": [
             "「現実を認めたくない、\n受け入れたくない。」"
         ],
