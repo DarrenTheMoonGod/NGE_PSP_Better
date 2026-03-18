@@ -745,84 +745,129 @@
             "shifts": [4, 0]
         }
     },
-    "!im003554.zpt.DECOMPRESSED.PICTURE.png": {
+    "im003554.zpt.DECOMPRESSED.PICTURE.png": {
         "phrases": [
-            "「現実を認めたくない、\n受け入れたくない。」"
+            "「現実を認めたくない、",
+            "受け入れたくない。",
+            "」"
         ],
-        "format": "valign",
+        "format": "valign-1-2",
         "options": {
-            "height": 195,
-            "aspect": 0.5
+            "height": [55, 70, 43],
+            "aspect": [0.456, 0.444, 0.547],
+            "skips": [8, 4],
+            "lifts": [0, 0, 3],
+            "shifts": [3, 0]
         }
     },
     "im003555.zpt.DECOMPRESSED.PICTURE.png": {
         "phrases": [
-            "「逃げることしかできない。」"
+            "「逃げ",
+            "ることしかできない。",
+            "」"
         ],
-        "format": "valign",
+        "format": "valign-3",
         "options": {
-            "height": 195,
-            "aspect": 0.5
+            "height": [58, 53, 43],
+            "aspect": [0.458, 0.475, 0.547],
+            "skips": [2, 6],
+            "lifts": [0, 3, 3],
+            "shifts": [-3]
         }
     },
     "im003556.zpt.DECOMPRESSED.PICTURE.png": {
         "phrases": [
-            "「誰も、他人の心はわからない。」"
+            "「誰も、",
+            "他人の心",
+            "はわからない。",
+            "」"
         ],
-        "format": "valign",
+        "format": "valign-4",
         "options": {
-            "height": 195,
-            "aspect": 0.5
+            "height": [56, 70, 54, 43],
+            "aspect": [0.452, 0.444, 0.466, 0.547],
+            "skips": [20, 3, 8],
+            "lifts": [3, 0, 3, 3],
+            "shifts": [-3]
         }
     },
     "im003557.zpt.DECOMPRESSED.PICTURE.png": {
         "phrases": [
-            "「しかし、\nやがてそれは裏切られる。」"
+            "「しかし、",
+            "やがてそれは",
+            "裏切られる。",
+            "」"
         ],
-        "format": "valign",
+        "format": "valign-1-3",
         "options": {
-            "height": 195,
-            "aspect": 0.5
+            "height": [54, 58, 70, 43],
+            "aspect": [0.460, 0.444, 0.445, 0.547],
+            "skips": [7, 2, 8],
+            "lifts": [0, 2, 0, 3],
+            "shifts": [3, 0]
         }
     },
     "im003558.zpt.DECOMPRESSED.PICTURE.png": {
         "phrases": [
-            "「しかし、期待はできない。」"
+            "「しかし、",
+            "期待はできない。",
+            "」"
         ],
-        "format": "valign",
+        "format": "valign-3",
         "options": {
-            "height": 195,
-            "aspect": 0.5
+            "height": [54, 58, 43],
+            "aspect": [0.460, 0.434, 0.547],
+            "skips": [19, 5],
+            "lifts": [3, 2, 3],
+            "shifts": [-3, 0]
         }
     },
     "im003559.zpt.DECOMPRESSED.PICTURE.png": {
         "phrases": [
-            "「しかし、現実は\n何も変わらない。」"
+            "「しかし、現実は",
+            "何も変わらない。",
+            "」"
         ],
-        "format": "valign",
+        "format": "valign-1-2",
         "options": {
-            "height": 195,
-            "aspect": 0.5
+            "height": [60, 70, 47],
+            "aspect": [0.426, 0.447, 0.563],
+            "skips": [8, 6],
+            "lifts": [0, 0, 3],
+            "shifts": [3, 0]
         }
     },
     "im003560.zpt.DECOMPRESSED.PICTURE.png": {
         "phrases": [
-            "「そうやって、自分に嘘をついて、\nこれからも生きていく。」"
+            "「そうやって、自分に",
+            "嘘",
+            "をついて、",
+            "これからも生きていく。",
+            "」"
         ],
-        "format": "valign",
+        "format": "valign-3-2",
         "options": {
-            "height": 195,
-            "aspect": 0.5
+            "height": [55, 67, 56, 56, 44],
+            "aspect": [0.463, 0.490, 0.448, 0.451, 0.534],
+            "skips": [5, 4, 15, 6],
+            "lifts": [0, -2, 0, 0, 0],
+            "shifts": [0, 0]
         }
     },
     "im003561.zpt.DECOMPRESSED.PICTURE.png": {
         "phrases": [
-            "「だが、いつも自由は与えられている。」"
+            "「だが、いつ",
+            "も自由は",
+            "与えられている。",
+            "」"
         ],
-        "format": "valign",
+        "format": "valign-2-2",
         "options": {
-            "height": 195,
-            "aspect": 0.5
+            "height": [58, 70, 70, 43],
+            "aspect": [0.474, 0.453, 0.453, 0.547],
+            "skips": [6, 3, 6],
+            "lifts": [0, 0, 0, 3],
+            "shifts": [0, 0]
         }
     },
     "im003562.zpt.DECOMPRESSED.PICTURE.png": {
@@ -831,8 +876,8 @@
         ],
         "format": "valign",
         "options": {
-            "height": 195,
-            "aspect": 0.5
+            "height": 96,
+            "aspect": 0.774
         }
     },
     "im003563.zpt.DECOMPRESSED.PICTURE.png": {
@@ -841,8 +886,8 @@
         ],
         "format": "valign",
         "options": {
-            "height": 195,
-            "aspect": 0.5
+            "height": 96,
+            "aspect": 0.785
         }
     },
     "n000_51a.zpt.DECOMPRESSED.PICTURE.png": {
@@ -851,18 +896,18 @@
         ],
         "format": "valign",
         "options": {
-            "height": 195,
-            "aspect": 0.5
+            "height": 120,
+            "aspect": 0.442
         }
     },
-    "n000_52a.zpt.DECOMPRESSED.PICTURE.png": {
+    "!n000_52a.zpt.DECOMPRESSED.PICTURE.png": {
         "phrases": [
             "第3新東京市に襲来"
         ],
         "format": "valign",
         "options": {
-            "height": 195,
-            "aspect": 0.5
+            "height": 82,
+            "aspect": 0.446
         }
     },
     "n000_53a.zpt.DECOMPRESSED.PICTURE.png": {
