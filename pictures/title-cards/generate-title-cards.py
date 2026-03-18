@@ -520,12 +520,12 @@ def formatter(name, options, canvas_width, canvas_height, phrase_images):
             start1_x = origin_x + row1_shift
             start1_y = origin_y + -phrase1_lift
 
-            origin_y += adjusted1_height + top_line_pixel_skip
+            origin_y += top_line_pixel_skip + adjusted1_height
 
             start2_x = origin_x + row2_shift
             start2_y = origin_y + -phrase2_lift 
 
-            origin_y += adjusted2_height + bottom_line_pixel_skip
+            origin_y += bottom_line_pixel_skip + adjusted2_height
 
             start3_x = origin_x + row3_shift
             start3_y = origin_y + -phrase3_lift 
@@ -897,7 +897,7 @@ def formatter(name, options, canvas_width, canvas_height, phrase_images):
             start2_x = origin_x + row1_shift + adjusted1_width + top_character_pixel_skip
             start2_y = origin_y + -phrase2_lift + (max_top_line_height - adjusted2_height)
 
-            origin_y += line_pixel_skip + adjusted1_height
+            origin_y += line_pixel_skip + max_top_line_height
 
             start3_x = origin_x + row2_shift
             start3_y = origin_y + -phrase3_lift + (max_bottom_line_height - adjusted3_height)
@@ -1003,7 +1003,7 @@ def formatter(name, options, canvas_width, canvas_height, phrase_images):
             start2_x = origin_x + row1_shift + adjusted1_width + top_character_pixel_skip
             start2_y = origin_y + -phrase2_lift + (max_top_line_height - adjusted2_height)
 
-            origin_y += line_pixel_skip + adjusted1_height
+            origin_y += line_pixel_skip + max_top_line_height
 
             start3_x = origin_x + row2_shift
             start3_y = origin_y + -phrase3_lift + (max_bottom_line_height - adjusted3_height)
@@ -1125,7 +1125,7 @@ def formatter(name, options, canvas_width, canvas_height, phrase_images):
             start2_x = origin_x + row1_shift + adjusted1_width + top_character_pixel_skip
             start2_y = origin_y + -phrase2_lift + (max_top_line_height - adjusted2_height)
 
-            origin_y += line_pixel_skip + adjusted1_height
+            origin_y += line_pixel_skip + max_top_line_height
 
             start3_x = origin_x + row2_shift
             start3_y = origin_y + -phrase3_lift + (max_bottom_line_height - adjusted3_height)
@@ -1336,10 +1336,242 @@ def formatter(name, options, canvas_width, canvas_height, phrase_images):
             start3_x = origin_x + row1_shift + adjusted1_width + left_character_pixel_skip + adjusted2_width + right_character_pixel_skip
             start3_y = origin_y + -phrase3_lift + (max_top_line_height - adjusted3_height)
 
-            origin_y += line_pixel_skip + adjusted1_height
+            origin_y += line_pixel_skip + max_top_line_height
 
             start4_x = origin_x + row2_shift
             start4_y = origin_y + -phrase4_lift + (max_bottom_line_height - adjusted4_height)
+
+            return [(start1_x, 
+                    start1_y,
+                    adjusted1_width,
+                    adjusted1_height),
+                    
+                    (start2_x, 
+                    start2_y,
+                    adjusted2_width,
+                    adjusted2_height),
+
+                    (start3_x, 
+                    start3_y,
+                    adjusted3_width,
+                    adjusted3_height),
+
+                    (start4_x, 
+                    start4_y,
+                    adjusted4_width,
+                    adjusted4_height),
+            ]
+
+        case "valign-3-2":
+            # Three on top, one on bottom
+            assert len(phrase_images) >= 5
+
+            # Load skips:
+            #
+            # [PHRASE0] <-- Skip0 --> [PHRASE1] <-- Skip1 --> [PHRASE2]
+            #   ^
+            #   | 
+            #  Skip2
+            #   |
+            #   v
+            # [PHRASE3] <-- Skip3 --> [PHRASE4]
+            #
+            
+            top_left_character_pixel_skip = options.get("skips", default_skips)[0]
+            top_right_character_pixel_skip = options.get("skips", default_skips)[1]
+            line_pixel_skip = options.get("skips", default_skips)[2]
+            bottom_character_pixel_skip = options.get("skips", default_skips)[3]
+
+            # Load lifts
+            # Lifts determine how many pixels to shift up each respective phrase
+            phrase1_lift = options.get("lifts", default_lifts)[0]
+            phrase2_lift = options.get("lifts", default_lifts)[1]
+            phrase3_lift = options.get("lifts", default_lifts)[2]
+            phrase4_lift = options.get("lifts", default_lifts)[3]
+            phrase5_lift = options.get("lifts", default_lifts)[4]
+
+            # Load shifts
+            row1_shift = options.get("shifts", default_shifts)[0]
+            row2_shift = options.get("shifts", default_shifts)[1]
+
+            # Adjust aspect ratio further
+            phrase1_aspect = phrase_images[0].aspect * options.get("aspect", default_aspect_list)[0]
+            phrase2_aspect = phrase_images[1].aspect * options.get("aspect", default_aspect_list)[1]
+            phrase3_aspect = phrase_images[2].aspect * options.get("aspect", default_aspect_list)[2]
+            phrase4_aspect = phrase_images[3].aspect * options.get("aspect", default_aspect_list)[3]
+            phrase5_aspect = phrase_images[4].aspect * options.get("aspect", default_aspect_list)[4]
+
+            # Calculate width based on aspect ratio
+            adjusted1_height = options.get("height", default_height_list)[0]
+            adjusted2_height = options.get("height", default_height_list)[1]
+            adjusted3_height = options.get("height", default_height_list)[2]
+            adjusted4_height = options.get("height", default_height_list)[3]
+            adjusted5_height = options.get("height", default_height_list)[4]
+
+            adjusted1_width = int(phrase1_aspect * adjusted1_height)
+            adjusted2_width = int(phrase2_aspect * adjusted2_height)
+            adjusted3_width = int(phrase3_aspect * adjusted3_height)
+            adjusted4_width = int(phrase4_aspect * adjusted4_height)
+            adjusted5_width = int(phrase5_aspect * adjusted5_height)
+
+            # Recalculate widths and heights taking into account the dimensions of multiple phrases
+            total_width = max(adjusted1_width + top_left_character_pixel_skip + adjusted2_width + top_right_character_pixel_skip + adjusted3_width,
+                              adjusted4_width + bottom_character_pixel_skip + adjusted5_width)
+            total_height = max(adjusted1_height, adjusted2_height, adjusted3_height) + line_pixel_skip + max(adjusted4_height, adjusted5_height)
+
+            # If total width surpasses canvas_width, then recalculate the height
+            if total_width > (canvas_width - canvas_padding):
+                # Readjust aspect for wider phrases
+                adjusted1_width = int((canvas_width - canvas_padding) * (adjusted1_width / total_width))
+                adjusted1_height = int(adjusted1_width / phrase1_aspect)
+
+                adjusted2_width = int((canvas_width - canvas_padding) * (adjusted2_width / total_width))
+                adjusted2_height = int(adjusted2_width / phrase2_aspect)
+
+                adjusted3_width = int((canvas_width - canvas_padding) * (adjusted3_width / total_width))
+                adjusted3_height = int(adjusted3_width / phrase3_aspect)
+
+                adjusted4_width = int((canvas_width - canvas_padding) * (adjusted4_width / total_width))
+                adjusted4_height = int(adjusted4_width / phrase4_aspect)
+
+                adjusted5_width = int((canvas_width - canvas_padding) * (adjusted5_width / total_width))
+                adjusted5_height = int(adjusted5_width / phrase5_aspect)
+
+                # Recalculate widths and heights taking into account the dimensions of multiple phrases
+                total_width = max(adjusted1_width + top_left_character_pixel_skip + adjusted2_width + top_right_character_pixel_skip + adjusted3_width,
+                                  adjusted4_width + bottom_character_pixel_skip + adjusted5_width)
+                total_height = max(adjusted1_height, adjusted2_height, adjusted3_height) + line_pixel_skip + max(adjusted4_height, adjusted5_height)
+
+            # Calculate start x and start y
+            origin_x = (canvas_width - total_width) // 2
+            origin_y = (canvas_height - total_height) // 2
+
+            max_top_line_height = max(adjusted1_height, adjusted2_height, adjusted3_height)
+            max_bottom_line_height = max(adjusted4_height, adjusted5_height)
+
+            start1_x = origin_x + row1_shift
+            start1_y = origin_y + -phrase1_lift + (max_top_line_height - adjusted1_height)
+
+            start2_x = origin_x + row1_shift + adjusted1_width + top_left_character_pixel_skip
+            start2_y = origin_y + -phrase2_lift + (max_top_line_height - adjusted2_height)
+
+            start3_x = origin_x + row1_shift + adjusted1_width + top_left_character_pixel_skip + adjusted2_width + top_right_character_pixel_skip
+            start3_y = origin_y + -phrase3_lift + (max_top_line_height - adjusted3_height)
+
+            origin_y += line_pixel_skip + max_top_line_height
+
+            start4_x = origin_x + row2_shift
+            start4_y = origin_y + -phrase4_lift + (max_bottom_line_height - adjusted4_height)
+
+            start5_x = origin_x + row2_shift + adjusted4_width + bottom_character_pixel_skip
+            start5_y = origin_y + -phrase5_lift + (max_bottom_line_height - adjusted5_height)
+
+            return [(start1_x, 
+                    start1_y,
+                    adjusted1_width,
+                    adjusted1_height),
+                    
+                    (start2_x, 
+                    start2_y,
+                    adjusted2_width,
+                    adjusted2_height),
+
+                    (start3_x, 
+                    start3_y,
+                    adjusted3_width,
+                    adjusted3_height),
+
+                    (start4_x, 
+                    start4_y,
+                    adjusted4_width,
+                    adjusted4_height),
+
+                    (start5_x, 
+                    start5_y,
+                    adjusted5_width,
+                    adjusted5_height),
+            ]
+
+        case "valign-4":
+            # Four on center
+            assert len(phrase_images) >= 4
+
+            # Load skips:
+            #
+            # [PHRASE0] <-- Skip0 --> [PHRASE1] <-- Skip1 --> [PHRASE2] <-- Skip2 --> [PHRASE3]
+            #
+            
+            left_character_pixel_skip = options.get("skips", default_skips)[0]
+            middle_character_pixel_skip = options.get("skips", default_skips)[1]
+            right_character_pixel_skip = options.get("skips", default_skips)[2]
+            
+            # Load lifts
+            # Lifts determine how many pixels to shift up each respective phrase
+            phrase1_lift = options.get("lifts", default_lifts)[0]
+            phrase2_lift = options.get("lifts", default_lifts)[1]
+            phrase3_lift = options.get("lifts", default_lifts)[2]
+            phrase4_lift = options.get("lifts", default_lifts)[3]
+
+            # Load shifts
+            row_shift = options.get("shifts", default_shifts)[0]
+
+            # Adjust aspect ratio further
+            phrase1_aspect = phrase_images[0].aspect * options.get("aspect", default_aspect_list)[0]
+            phrase2_aspect = phrase_images[1].aspect * options.get("aspect", default_aspect_list)[1]
+            phrase3_aspect = phrase_images[2].aspect * options.get("aspect", default_aspect_list)[2]
+            phrase4_aspect = phrase_images[3].aspect * options.get("aspect", default_aspect_list)[3]
+
+            # Calculate width based on aspect ratio
+            adjusted1_height = options.get("height", default_height_list)[0]
+            adjusted2_height = options.get("height", default_height_list)[1]
+            adjusted3_height = options.get("height", default_height_list)[2]
+            adjusted4_height = options.get("height", default_height_list)[3]
+
+            adjusted1_width = int(phrase1_aspect * adjusted1_height)
+            adjusted2_width = int(phrase2_aspect * adjusted2_height)
+            adjusted3_width = int(phrase3_aspect * adjusted3_height)
+            adjusted4_width = int(phrase4_aspect * adjusted4_height)
+
+            # Recalculate widths and heights taking into account the dimensions of multiple phrases
+            total_width = adjusted1_width + left_character_pixel_skip + adjusted2_width + middle_character_pixel_skip + adjusted3_width + right_character_pixel_skip + adjusted4_width
+            total_height = max(adjusted1_height, adjusted2_height, adjusted3_height, adjusted4_height)
+
+            # If total width surpasses canvas_width, then recalculate the height
+            if total_width > (canvas_width - canvas_padding):
+                # Readjust aspect for wider phrases
+                adjusted1_width = int((canvas_width - canvas_padding) * (adjusted1_width / total_width))
+                adjusted1_height = int(adjusted1_width / phrase1_aspect)
+
+                adjusted2_width = int((canvas_width - canvas_padding) * (adjusted2_width / total_width))
+                adjusted2_height = int(adjusted2_width / phrase2_aspect)
+
+                adjusted3_width = int((canvas_width - canvas_padding) * (adjusted3_width / total_width))
+                adjusted3_height = int(adjusted3_width / phrase3_aspect)
+
+                adjusted4_width = int((canvas_width - canvas_padding) * (adjusted4_width / total_width))
+                adjusted4_height = int(adjusted4_width / phrase4_aspect)
+
+                # Recalculate widths and heights taking into account the dimensions of multiple phrases
+                total_width = adjusted1_width + left_character_pixel_skip + adjusted2_width + middle_character_pixel_skip + adjusted3_width + right_character_pixel_skip + adjusted4_width
+                total_height = max(adjusted1_height, adjusted2_height, adjusted3_height, adjusted4_height)
+
+            # Calculate start x and start y
+            origin_x = (canvas_width - total_width) // 2
+            origin_y = (canvas_height - total_height) // 2
+
+            max_line_height = max(adjusted1_height, adjusted2_height, adjusted3_height, adjusted4_height)
+
+            start1_x = origin_x + row_shift
+            start1_y = origin_y + -phrase1_lift + (max_line_height - adjusted1_height)
+
+            start2_x = origin_x + row_shift + adjusted1_width + left_character_pixel_skip
+            start2_y = origin_y + -phrase2_lift + (max_line_height - adjusted2_height)
+
+            start3_x = origin_x + row_shift + adjusted1_width + left_character_pixel_skip + adjusted2_width + middle_character_pixel_skip
+            start3_y = origin_y + -phrase3_lift + (max_line_height - adjusted3_height)
+
+            start4_x = origin_x + row_shift + adjusted1_width + left_character_pixel_skip + adjusted2_width + middle_character_pixel_skip + adjusted3_width + right_character_pixel_skip
+            start4_y = origin_y + -phrase4_lift + (max_line_height - adjusted4_height)
 
             return [(start1_x, 
                     start1_y,
