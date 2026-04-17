@@ -32,7 +32,7 @@ def run_json_sequence(folder_path):
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
-        print("Usage: python runner.py <folder>")
+        print("Usage: python TEXTnuke.py <folder>")
         sys.exit(1)
 
     run_json_sequence(sys.argv[1])
